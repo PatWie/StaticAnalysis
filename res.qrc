@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/folder-horizontal-open.png</file>
+        <file>images/application-detail.png</file>
+        <file>images/application-block.png</file>
+        <file>images/application-export.png</file>
+        <file>images/application-import.png</file>
+        <file>images/tag--pencil.png</file>
+        <file>images/sticky-note.png</file>
+        <file>images/arrow-switch.png</file>
+        <file>images/arrow-turn-180.png</file>
+        <file>images/arrow-curve.png</file>
+        <file>images/balloon--pencil.png</file>
+        <file>images/notification-counter-02.png</file>
+        <file>images/notification-counter-08.png</file>
+        <file>images/notification-counter-10.png</file>
+        <file>images/notification-counter-16.png</file>
+        <file>images/notification-counter-ascii.png</file>
+        <file>images/blue-folders-stack.png</file>
+        <file>images/node-select-all.png</file>
+        <file>images/notebook.png</file>
+        <file>images/block-small.png</file>
+    </qresource>
+    <qresource prefix="/libs">
+        <file>Data/user32.txt</file>
+        <file>Data/kernel32.txt</file>
+        <file>Data/gdi32.txt</file>
+        <file>Data/shell32.txt</file>
+    </qresource>
+</RCC>
